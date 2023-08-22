@@ -7,8 +7,8 @@
 
 - [x] Criação de terminal espacial para uso em jogos de RPG da linha ALIEN ou Mothership
 - [x] Código essencialmente pronto com alterações pontuais via Twine
-- [x] Implementação do código associado
-- [x] Testes da funcionalidades
+- [x] Adaptação dos resultados para cada tipo de campanha/aventura
+- [x] Tradução para PT-BR do conteúdo apresentado
 
 ---
 #### 🔧 FERRAMENTAS / TECNOLOGIAS:
